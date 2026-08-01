@@ -1,4 +1,4 @@
-<img width="1216" height="688" alt="image" src="https://github.com/user-attachments/assets/0268d40e-d2d5-4be4-bc8d-97ba80d8f884" /># Digital VLSI SoC Design and Planning
+# Digital VLSI SoC Design and Planning
 > 2 Week digital VLSI SoC design and planning workshop with complete RTL2GDSII flow organised by VSD in collaboration with NASSCOM
 
 ## Section 1 - Inception of open-source EDA, OpenLANE and Sky130 PDK (14/03/2024 - 15/03/2024)
