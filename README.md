@@ -137,7 +137,7 @@ exit
 
 Screenshots of the commands running:
 
-![1](https://github.com/fayizferosh/soc-design-and-planning-nasscom-vsd/assets/63997454/d19f6d0f-16f8-4e79-aa5a-f2a34b9fb203)
+<img width="1133" height="555" alt="image" src="https://github.com/user-attachments/assets/03f92235-5cc6-4b1f-a2fc-afae49cdde74" />
 <img width="1282" height="769" alt="Synthesis run" src="https://github.com/user-attachments/assets/d7eb084b-32a9-4191-a85d-8ab9e22f5063" />
 
 #### 2. Calculate the flop ratio
@@ -173,9 +173,6 @@ Section 2 tasks:
 $$
 \text{Area of die in microns} = \text{Die width in microns} \times \text{Die height in microns}
 $$
-
-All Section 2 logs, reports, and results can be found in the following run folder:
-[Section 2 Run — 17-03_12-06](https://github.com/fayizferosh/soc-design-and-planning-nasscom-vsd/tree/main/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/17-03_12-06)
 
 #### 1. Run `picorv32a` design floorplan using the OpenLANE flow
 
