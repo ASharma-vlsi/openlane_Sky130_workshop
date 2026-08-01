@@ -4,16 +4,16 @@
 
 ## Table of Contents
 
-- [Section 1 — Inception of Open-Source EDA, OpenLANE, and Sky130 PDK](#section-1--inception-of-open-source-eda-openlane-and-sky130-pdk-14032024--15032024)
-- [Section 2 — Good Floorplan vs. Bad Floorplan and Introduction to Library Cells](#section-2--good-floorplan-vs-bad-floorplan-and-introduction-to-library-cells-16032024--17032024)
-- [Section 3 — Designing a Library Cell Using Magic Layout and ngspice Characterization](#section-3--designing-a-library-cell-using-magic-layout-and-ngspice-characterization-18032024--21032024)
-- [Section 4 — Pre-Layout Timing Analysis and the Importance of a Good Clock Tree](#section-4--pre-layout-timing-analysis-and-the-importance-of-a-good-clock-tree-22032024--24032024)
-- [Section 5 — Final Steps for RTL2GDS Using TritonRoute and OpenSTA](#section-5--final-steps-for-rtl2gds-using-tritonroute-and-opensta-25032024--26032024)
+- [Section 1 — Inception of Open-Source EDA, OpenLANE, and Sky130 PDK](#section-1--inception-of-open-source-eda-openlane-and-sky130-pdk)
+- [Section 2 — Good Floorplan vs. Bad Floorplan and Introduction to Library Cells](#section-2--good-floorplan-vs-bad-floorplan-and-introduction-to-library-cells)
+- [Section 3 — Designing a Library Cell Using Magic Layout and ngspice Characterization](#section-3--designing-a-library-cell-using-magic-layout-and-ngspice-characterization)
+- [Section 4 — Pre-Layout Timing Analysis and the Importance of a Good Clock Tree](#section-4--pre-layout-timing-analysis-and-the-importance-of-a-good-clock-tree)
+- [Section 5 — Final Steps for RTL2GDS Using TritonRoute and OpenSTA](#section-5--final-steps-for-rtl2gds-using-tritonroute-and-opensta)
 - [Acknowledgements](#acknowledgements)
 
 ---
 
-## Section 1 — Inception of Open-Source EDA, OpenLANE, and Sky130 PDK (14/03/2024 – 15/03/2024)
+## Section 1 — Inception of Open-Source EDA, OpenLANE, and Sky130 PDK
 
 ### Theory — OpenLANE ASIC Design Flow
 
@@ -159,7 +159,7 @@ $$
 
 ---
 
-## Section 2 — Good Floorplan vs. Bad Floorplan and Introduction to Library Cells (16/03/2024 – 17/03/2024)
+## Section 2 — Good Floorplan vs. Bad Floorplan and Introduction to Library Cells
 
 ### Implementation
 
@@ -291,7 +291,7 @@ exit
 
 ---
 
-## Section 3 — Designing a Library Cell Using Magic Layout and ngspice Characterization (18/03/2024 – 21/03/2024)
+## Section 3 — Designing a Library Cell Using Magic Layout and ngspice Characterization
 
 ### Implementation
 
@@ -513,7 +513,7 @@ drc why
 
 ---
 
-## Section 4 — Pre-Layout Timing Analysis and the Importance of a Good Clock Tree (22/03/2024 – 24/03/2024)
+## Section 4 — Pre-Layout Timing Analysis and the Importance of a Good Clock Tree
 
 ### Implementation
 
@@ -940,7 +940,7 @@ Screenshot of the commands and the generated timing report:
 
 ---
 
-## Section 5 — Final Steps for RTL2GDS Using TritonRoute and OpenSTA (25/03/2024 – 26/03/2024)
+## Section 5 — Final Steps for RTL2GDS Using TritonRoute and OpenSTA
 
 ### Implementation
 
