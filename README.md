@@ -100,10 +100,6 @@ Flop\ Ratio = \frac{Number\ of\ D\ Flip\ Flops}{Total\ Number\ of\ Cells}
 Percentage\ of\ DFF's = Flop\ Ratio * 100
 ```
 
-* All section 1 logs, reports and results can be found in following run folder:
-
-[Section 1 Run - 15-03_15-51](https://github.com/fayizferosh/soc-design-and-planning-nasscom-vsd/tree/main/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/15-03_15-51)
-
 #### 1. Run 'picorv32a' design synthesis using OpenLANE flow and generate necessary outputs.
 
 Commands to invoke the OpenLANE flow and perform synthesis
