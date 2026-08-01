@@ -1,6 +1,6 @@
 # Digital VLSI SoC Design and Planning
 
-> A 2-week digital VLSI SoC design and planning workshop covering the complete RTL2GDSII flow, organized by VSD in collaboration with NASSCOM.
+> A 10 days digital VLSI SoC design and planning workshop covering the complete RTL2GDSII flow, organized by VSD in collaboration with NASSCOM.
 
 ## Table of Contents
 
